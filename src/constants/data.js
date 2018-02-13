@@ -20,7 +20,7 @@ const heros = {
         name: "The Flash",
         powers: "Super-speed",
         image: "http://www.writeups.org/wp-content/uploads/Flash-DC-Comics-Wally-West.jpg",
-        trueIdentity: "Wally West",
+        trueIdentity: "Barry Allen",
       },
       {
         id: 4,
@@ -34,7 +34,7 @@ const heros = {
         name: "Green Lanturn",
         powers: "The power of Will",
         image: "https://static.comicvine.com/uploads/original/11123/111230211/4941845-5672237426-Green.jpg",
-        trueIdentity: "John Stewart"
+        trueIdentity: "Hal Jordan"
       }
     ],
   avengers:
@@ -64,7 +64,7 @@ const heros = {
         id: 8,
         name: "Captain America",
         powers: "Enhanced strength and speed",
-        image: "http://images.clipartpanda.com/captain-america-clipart-9ipzKr9AT.png",
+        image: "https://i.pinimg.com/736x/ec/b8/67/ecb867283a30f334f40d11de551f5f36--marvel-kahramanlar%C4%B1-marvel-captain-america.jpg",
         trueIdentity: "Steve Rogers"
       },
       {
